@@ -1,0 +1,10 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "jlama": {
+      "script-ref": "jlama.java",
+      "java-agents": []
+    }
+  },
+  "templates": {}
+}
