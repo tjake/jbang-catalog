@@ -8,8 +8,8 @@
 // not possible before https://github.com/jbangdev/jbang/issues/1838 is fixed.
 // COMPILE_OPTIONS -XX:CompilerDirectivesFile=%{https://raw.githubusercontent.com/tjake/Jlama/main/inlinerules.json}%
 
-//DEPS com.github.tjake:jlama-cli:0.8.0
-//DEPS com.github.tjake:jlama-native:0.8.0:${os.detected.name}-${os.detected.arch}
+//DEPS com.github.tjake:jlama-cli:0.8.1
+//DEPS com.github.tjake:jlama-native:0.8.1:${os.detected.name}-${os.detected.arch}
 
 import static java.lang.System.*;
 import com.github.tjake.jlama.cli.JlamaCli;
